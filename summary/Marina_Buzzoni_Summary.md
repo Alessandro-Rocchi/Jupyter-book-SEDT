@@ -1,4 +1,4 @@
-# A Protocol for Scholarly Digital Editions? The Italian Point of View
+# A Protocol for Scholarly Digital Editions? The Italian Point of View - Buzzoni
 
 ## Summary
 

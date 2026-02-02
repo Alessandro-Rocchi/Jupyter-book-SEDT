@@ -1,4 +1,4 @@
-# Exogenetic Digital Editing and Enactive Cognition
+# Exogenetic Digital Editing and Enactive Cognition - Van Hulle
 
 ## Summary
 

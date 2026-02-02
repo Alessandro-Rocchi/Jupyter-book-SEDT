@@ -1,4 +1,4 @@
-# What We Edit, and how We Edit
+# What We Edit, and how We Edit - Eggert
 
 ## Summary
 

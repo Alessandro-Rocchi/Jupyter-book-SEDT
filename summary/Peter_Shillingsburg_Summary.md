@@ -1,4 +1,4 @@
-# Literary Documents, Texts, and Works Represented Digitally
+# Literary Documents, Texts, and Works Represented Digitally - Shillingsburg
 
 ## Summary
 

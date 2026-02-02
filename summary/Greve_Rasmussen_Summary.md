@@ -1,4 +1,4 @@
-# Reading or Using a Digital Edition?
+# Reading or Using a Digital Edition? - Rasmussen
 
 ## Summary
 

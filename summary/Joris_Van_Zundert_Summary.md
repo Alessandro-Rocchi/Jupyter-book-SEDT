@@ -1,4 +1,4 @@
-# Barely Beyond the Book?
+# Barely Beyond the Book? - Van Zundert
 
 ## Summary
 

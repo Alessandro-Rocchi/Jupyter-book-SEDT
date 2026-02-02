@@ -1,4 +1,4 @@
-# Modelling Digital Scholarly Editing: From Plato to Heraclitus
+# Modelling Digital Scholarly Editing: From Plato to Heraclitus - Pierazzo
 
 ## Summary
 

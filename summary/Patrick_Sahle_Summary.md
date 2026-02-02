@@ -1,4 +1,4 @@
-# What is a Digital Scholarly Edition?
+# What is a Digital Scholarly Edition? - Sahle
 
 ## Summary
 

@@ -1,4 +1,4 @@
-# Editing Text – Editing Work
+# Editing Text – Editing Work - Gabler
 
 ## Summary
 
