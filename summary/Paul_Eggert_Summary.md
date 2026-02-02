@@ -3,6 +3,7 @@
 ## Summary
 
 Paul Eggert responds to Gabler, highlighting the role of the reader and the continuity of the work over time.
+
 The main points are:
 
 - Role of the Reader: Eggert critiques Gabler’s strict document-text binary, arguing that text only truly exists when activated by reading («reading as being constitutive of text»).

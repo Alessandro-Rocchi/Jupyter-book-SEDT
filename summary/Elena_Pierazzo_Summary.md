@@ -3,6 +3,7 @@
 ## Summary
 
 In this chapter, Elena Pierazzo analyzes the fundamental theoretical shift in textual scholarship from a Platonic view (text as a stable, ideal object) to a Heraclitean view (text as flux) within the digital medium.
+
 The key points of her argument are:
 
 - Heraclitean Model: Pierazzo argues that digital texts are intrinsically mutable, embracing the «mutability» of text rather than trying to fix it into a single authoritative version («one-text paradigm»).

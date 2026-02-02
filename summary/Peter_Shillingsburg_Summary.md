@@ -4,7 +4,7 @@
 
 Peter Shillingsburg examines the tension between the archival and editorial impulses in the digital environment.
 
-The salient points are: \
+The salient points are:
 
 - Archive vs. Edition: Shillingsburg distinguishes between the archive (which reiterates and preserves historical documents) and the edition (which creates new, critical texts). The digital favors the archive, but should not exclude critical editing.
 
