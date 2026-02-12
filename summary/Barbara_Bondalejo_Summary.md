@@ -1,4 +1,4 @@
-# The Texts We See and the Works We Imagine - Bondalejo
+# The Texts We See and the Works We Imagine - Bordalejo
 
 ## Summary
 
